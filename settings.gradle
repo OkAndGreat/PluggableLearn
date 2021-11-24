@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PluggableLearn"
 include ':app'
+include ':plugin'
